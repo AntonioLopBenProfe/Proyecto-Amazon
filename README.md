@@ -1,2 +1,2 @@
 # Proyecto-Amazon
-Proyecto Amazon de la clase de Programación 
+Proyecto Amazon de la clase de Programación y Computación
